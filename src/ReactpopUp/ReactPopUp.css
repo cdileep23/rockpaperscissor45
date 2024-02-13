@@ -1,0 +1,23 @@
+.trigger-button {
+  background-color: white;
+  color: #223a5f;
+  font-weight: bold;
+  padding: 10px;
+  align-self: flex-end;
+  margin: 30px;
+}
+.rules-container {
+  width: 80%;
+  height: 60%;
+  background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.rules-image {
+  width: 90%;
+  height: 90%;
+}
